@@ -1,0 +1,9 @@
+section{
+	display: inline-block;
+}
+article{
+	float:left;
+}
+aside{
+	display: inline-block;
+}

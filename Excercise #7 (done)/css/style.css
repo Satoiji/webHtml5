@@ -1,0 +1,77 @@
+body{
+	margin-left: 150px;
+	margin-right: 150px;
+	background-color: #F9E79F;
+}
+header{
+	background-color: #FCF3CF;
+	text-align: center;
+}
+section{
+	font-size: 18px;
+	padding-top: 0%;
+	height: 100%;
+	margin-top: 15px;
+	width: 70%;
+	float: left;
+	background-color: #FEF9E7;
+}
+.etapa{
+	margin-top: 15px;
+	text-align: justify;
+}
+
+aside{
+	padding-left: 5px;
+	font-size: 18px;
+	width: 28%;
+	height: 100%;
+	background-color: #FEF9E7;
+	margin-top: 15px;
+	float: left;
+	margin-left: 15px;
+}
+.etapa, .personalInformation{
+	margin-left: 25px;
+}
+
+#año{
+	vertical-align: top;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#logoTec2{
+	margin-left: 9px;
+}
+
+#info{
+	vertical-align: top;
+	padding-left: 100px;
+	text-align: justify;
+	display: inline-block;
+}
+
+article {
+	margin: 10px;
+}
+
+aside h2, h4{
+	margin-left: 15px;
+}
+
+h2{
+	color: #7D6608;
+	font-family: "Old-Time English", Times, serif;
+}
+
+.personalInformation{
+	font-family: Arial, Times, serif;
+	font-style: italic;
+}
+
+* {
+	border-radius: 15px;
+	margin:0;
+}

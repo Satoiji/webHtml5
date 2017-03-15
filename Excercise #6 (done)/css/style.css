@@ -1,0 +1,64 @@
+header {
+	width: 1366;
+	text-align: center;
+	position: fixed;
+	height: 200;
+}
+section{
+	margin-top: 119;
+	text-align: center;
+	display: inline-block;
+	width: 890;
+	background-color: #eeeeee;
+}
+aside{	
+	display:inline-block;
+	width: 476;
+	margin-left: 5px;
+	position: fixed;	
+	padding-left: 440;
+}
+footer{
+	color: white;
+	background-color: #212121;
+}
+aside div{
+	size:100;
+}
+#texto{
+	font-size: 20px;
+}
+#encargado{
+	font-size: 15px;
+	font-weight: bold;
+}
+.evento{
+	background-color: #f5f5f5;
+}
+.navigator{
+	background-color: #bdbdbd;
+}
+.logo {
+	background-color: #eeeeee;
+}
+.empleados{
+	background-color: #eeeeee;
+	width: 866;
+	padding: 10;
+	border: 2px solid gray;
+	margin: 0;
+}
+.ciudad{
+	margin-left: 25px;
+	display: inline-block;
+}
+#imagen, #texto{
+	display: inline-block;
+}
+
+#fisica, #quimica, #metalurgia{
+	display: inline-block;
+}
+* {
+	margin:0;
+}

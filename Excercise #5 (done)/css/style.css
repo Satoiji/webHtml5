@@ -1,0 +1,46 @@
+header{
+	margin: 5px;
+}
+body{
+	background-color: #AED6F1;
+}
+section{
+	width: 1000;
+	display: inline-block;
+}
+article{
+	float: left;
+	background-color: #D6EAF8;
+}
+aside{
+	padding-top: 5px;
+	vertical-align: top;
+	width: 305;
+	height: 65%;
+	background-color: #D6EAF8;
+	display: inline-block;
+}
+footer{
+	clear:both;
+	margin-top: 0px;
+	background-color: #D6EAF8;
+}
+.menu{
+	height: 65%;
+	width: 25%;
+}
+article div h2{
+	font-family: Arial,Times,Serif;
+}
+#fecha{
+	font-style: italic;
+}
+.principal{
+	font-size: 18px;
+	height: 65%;
+	width: 73%;
+}
+*{
+	border-radius: 15px;
+	margin: 5px;
+}

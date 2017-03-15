@@ -1,0 +1,50 @@
+html{
+	background-color: #F9E79F;
+}
+body{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+section, aside{
+	vertical-align: top;
+	display:inline-block;
+}
+article{
+	width: 100%;
+	background-color: #FCF3CF;
+}
+header{
+	background-color: #FCF3CF;
+	width: 98.5%;
+	margin: 10px;
+}
+header div{
+	vertical-align: middle;
+	display: inline-block;
+	border-width: 5px;
+}
+nav{
+	height: 30px;
+	background-color: #F9E79F;
+	text-align: center;
+}
+nav a{
+	padding-top: 10px;
+	margin-left: 20px;
+}
+div.reading div, div.tecnicas div{
+	vertical-align: top;
+	display: inline-block;
+}
+#logoText{
+	padding-left: 600px;
+	text-align: right;
+}
+aside{
+	width: 29%;
+	background-color: #FCF3CF;
+}
+
+* {
+	margin: 0;
+}
